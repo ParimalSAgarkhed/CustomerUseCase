@@ -1,3 +1,3 @@
 Sl#,ApplicationName,BusinessUnit,Managed_Organization,repoDetails,appscanPayload
-1~Jenkins_ASoC_Automation~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/HCL-TECH-SOFTWARE/AltoroJ.git", "branch":"master"}~name
-2~Jenkins_ASoC_Automation~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/HCL-TECH-SOFTWARE/AltoroJ.git", "branch":"master"}~name
+1~Jenkins_ASoC_Automation~SNOW~DEFAULT_ASSET_GROUP~[{"name":"https://github.com/HCL-TECH-SOFTWARE/AltoroJ.git", "branch":"master"}]~name
+2~Jenkins_ASoC_Automation~SNOW~DEFAULT_ASSET_GROUP~[{"name":"https://github.com/HCL-TECH-SOFTWARE/AltoroJ.git", "branch":"master"}]~name

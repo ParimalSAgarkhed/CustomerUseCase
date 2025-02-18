@@ -1,0 +1,5 @@
+Sl#,ApplicationName,BusinessUnit,Managed_Organization,repoDetails,appscanPayload
+1~Jenkins_ASoC_Automation~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/HCL-TECH-SOFTWARE/AltoroJ.git", "branch":"master"}~name
+2~Jenkins_ASoC_Automation~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/WebGoat/WebGoat.git", "branch":"main"}~name
+3~Jenkins_ASoC_Automation1~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/HCL-TECH-SOFTWARE/appscan-cloud-cli.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "Jenkins_ASoC_Automation1","AssetGroupId": "ASSUB"}
+4~Jenkins_ASoC_Automation2~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/jenkinsci/appscan-plugin.git", "branch":"master"}~{"BusinessUnitId": "BUSUB","Name": "Jenkins_ASoC_Automation2","AssetGroupId": "ASSUB"}

@@ -1,5 +1,5 @@
 Sl#,ApplicationName,BusinessUnit,Managed_Organization,repoDetails,appscanPayload
-1~Jenkins_ASoC_Automation~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/HCL-TECH-SOFTWARE/AltoroJ.git", "branch":"master"}~name
+1~Jenkins_ASoC_Automation~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/twbs/bootstrap.git", "branch":"main"}~name
 2~Jenkins_ASoC_Automation~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/WebGoat/WebGoat.git", "branch":"main"}~name
-3~Jenkins_ASoC_Automation1~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/vulnerable-apps/juice-shop.git", "branch":"master"}~{"BusinessUnitId": "BUSUB","Name": "Jenkins_ASoC_Automation1","AssetGroupId": "ASSUB"}
-4~Jenkins_ASoC_Automation2~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/vulnerable-apps/verademo.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "Jenkins_ASoC_Automation2","AssetGroupId": "ASSUB"}
+3~Jenkins_ASoC_Automation1~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/freeCodeCamp/freeCodeCamp.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "Jenkins_ASoC_Automation1","AssetGroupId": "ASSUB"}
+4~Jenkins_ASoC_Automation2~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/public-apis/public-apis", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "Jenkins_ASoC_Automation2","AssetGroupId": "ASSUB"}

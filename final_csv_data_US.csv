@@ -1,4 +1,4 @@
 Sl#,ApplicationName,BusinessUnit,Managed_Organization,repoDetails,appscanPayload
-1~CustomerUseCase_App1~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/WebGoat/WebGoat.git", "branch":"main"}~name
-2~CustomerUseCase_App2~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/HCL-TECH-SOFTWARE/appscan-cloud-cli.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "Jenkins_ASoC_Automation1","AssetGroupId": "ASSUB"}
-3~CustomerUseCase_App3~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/jenkinsci/appscan-plugin.git", "branch":"master"}~{"BusinessUnitId": "BUSUB","Name": "Jenkins_ASoC_Automation2","AssetGroupId": "ASSUB"}
+1~CustomerUseCase_App1~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/WebGoat/WebGoat.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "CustomerUseCase_App1","AssetGroupId": "ASSUB"}
+2~CustomerUseCase_App2~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/HCL-TECH-SOFTWARE/appscan-cloud-cli.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "CustomerUseCase_App2","AssetGroupId": "ASSUB"}
+3~CustomerUseCase_App3~SNOW~DEFAULT_ASSET_GROUP~{"name":"https://github.com/jenkinsci/appscan-plugin.git", "branch":"master"}~{"BusinessUnitId": "BUSUB","Name": "CustomerUseCase_App3","AssetGroupId": "ASSUB"}

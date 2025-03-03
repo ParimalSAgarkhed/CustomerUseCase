@@ -1,4 +1,4 @@
 Sl#,ApplicationName,BusinessUnit,Managed_Organization,repoDetails,appscanPayload
-1~CustomerUseCase_App1~ASoC~DEFAULT_ASSET_GROUP~{"name":"https://github.com/twbs/bootstrap.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "CustomerUseCase_App1","AssetGroupId": "ASSUB"}
-2~CustomerUseCase_App2~ASoC~DEFAULT_ASSET_GROUP~{"name":"https://github.com/lalit30itm/ScaScan.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "CustomerUseCase_App2","AssetGroupId": "ASSUB"}
-3~CustomerUseCase_App3~ASoC~DEFAULT_ASSET_GROUP~{"name":"https://github.com/lalit30itm/ScaScan.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "CustomerUseCase_App3","AssetGroupId": "ASSUB"}
+1~CustomerUseCase_App1~ASoC~DEFAULT_ASSET_GROUP~{"name":"https://github.com/ParimalSAgarkhed/juice-shop-master.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "CustomerUseCase_App1","AssetGroupId": "ASSUB"}
+2~CustomerUseCase_App2~ASoC~DEFAULT_ASSET_GROUP~{"name":"https://github.com/ParimalSAgarkhed/WebGoat.NET-master.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "CustomerUseCase_App2","AssetGroupId": "ASSUB"}
+3~CustomerUseCase_App3~ASoC~DEFAULT_ASSET_GROUP~{"name":"https://github.com/ParimalSAgarkhed/symfony-7.3.git", "branch":"main"}~{"BusinessUnitId": "BUSUB","Name": "CustomerUseCase_App3","AssetGroupId": "ASSUB"}
